@@ -1,0 +1,17 @@
+/Users/codedomain/VaultOValor/bin/Debug/net7.0/VaultOValor
+/Users/codedomain/VaultOValor/bin/Debug/net7.0/VaultOValor.deps.json
+/Users/codedomain/VaultOValor/bin/Debug/net7.0/VaultOValor.runtimeconfig.json
+/Users/codedomain/VaultOValor/bin/Debug/net7.0/VaultOValor.dll
+/Users/codedomain/VaultOValor/bin/Debug/net7.0/VaultOValor.pdb
+/Users/codedomain/VaultOValor/obj/Debug/net7.0/VaultOValor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codedomain/VaultOValor/obj/Debug/net7.0/VaultOValor.AssemblyInfoInputs.cache
+/Users/codedomain/VaultOValor/obj/Debug/net7.0/VaultOValor.AssemblyInfo.cs
+/Users/codedomain/VaultOValor/obj/Debug/net7.0/VaultOValor.csproj.CoreCompileInputs.cache
+/Users/codedomain/VaultOValor/obj/Debug/net7.0/VaultOValor.dll
+/Users/codedomain/VaultOValor/obj/Debug/net7.0/refint/VaultOValor.dll
+/Users/codedomain/VaultOValor/obj/Debug/net7.0/VaultOValor.pdb
+/Users/codedomain/VaultOValor/obj/Debug/net7.0/VaultOValor.genruntimeconfig.cache
+/Users/codedomain/VaultOValor/obj/Debug/net7.0/ref/VaultOValor.dll
+/Users/codedomain/VaultOValor/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/codedomain/VaultOValor/obj/Debug/net7.0/VaultOValor.csproj.AssemblyReference.cache
+/Users/codedomain/VaultOValor/obj/Debug/net7.0/VaultOValor.csproj.CopyComplete
